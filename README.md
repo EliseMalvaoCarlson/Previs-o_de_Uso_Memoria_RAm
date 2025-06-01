@@ -1,6 +1,6 @@
 ## Projeto 3 - Análise de Interpolação e Derivadas Numéricas Aplicadas à Previsão do Uso de Memória RAM em Função da CPU
 
-Trabalho desenvolvido no curso de graduação de Ciências da Computação da Universidade Estácio de Sá para a disciplina Modelagem Matemática.
+Trabalho desenvolvido no curso de graduação de Ciência da Computação da Universidade Estácio de Sá para a disciplina Modelagem Matemática.
 
 O projeto foi desenvolvido em ambiente de trabalho do Google Colab e esta devidamente comentado em cada etapa. 
 
